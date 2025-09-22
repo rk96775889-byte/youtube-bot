@@ -1,5 +1,5 @@
 requests
-moviepy.editor
+'moviepy.editor'
 python-dotenv
 praw
 google-api-python-client
