@@ -1,0 +1,3 @@
+request
+moviepy
+python-dotenv
