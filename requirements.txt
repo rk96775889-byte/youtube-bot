@@ -1,3 +1,7 @@
-request
+requests
 moviepy
 python-dotenv
+praw
+google-api-python-client
+goolge-auth-oauthlib
+google-auth-httplib2
