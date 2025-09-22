@@ -1,5 +1,5 @@
 moviepy==1.0.3
-yt-dlp==2024.6.4
+yt-dlp
 Pillow==10.1.0
 google-api-python-client==2.96.0
 google-auth-oauthlib==1.0.0
